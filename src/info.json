@@ -1,0 +1,52 @@
+{
+    "aboutMe":"I have finished my B.E. in Computer Science and have been working in industry for past few years.",
+    "schoolData" : {
+        "Syracuse" : {
+            "_id": "2",
+            "name": "Syracuse University",
+            "degreeField": "Master of Science in Computer Science",
+            "fromYear": "2017",
+            "description": "Study, work and play."
+        },
+        "VTU":{
+            "_id": "1",
+            "name": "Visvesvaraya Technological University",
+            "degreeField" : "Bachelor of Engineer in Computer Science",
+            "fromYear": "2009",
+            "toYear": "2013",
+            "description": "Achieved distinction awards in six semesters."
+        }
+    },
+    "experienceData" : [
+        {
+            "_id" : "3",
+            "title" : "Senior Technical Engineer",
+            "company" : "Huawei Technologies",
+            "location" : "Bangalore, India",
+            "startDate" : "Jan 2014",
+            "endDate" : "Jul 2017",
+            "description" : "Worked"
+        }
+    ],
+    "skillData" : [
+        {
+            "name" : "Java",
+            "rating" : "80"
+        }
+    ],
+    "certificateData" : [
+        {
+            "name" : "Spring Boot",
+            "organization" : "Lynda.com",
+            "issueDate" : "",
+            "expirationDate" : ""
+        }
+    ],
+    "URL": {
+        "GitHub" : "https://github.com/pavancse",
+        "LinkedIn" : "https://www.linkedin.com/in/pavan-n-s/",
+        "Twitter" : "https://twitter.com/NSPavan24",
+        "Facebook" : "https://www.facebook.com/pavan.ns689",
+        "Email" : "itsme.pavan24@gmail.com"
+    }
+}

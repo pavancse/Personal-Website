@@ -1,0 +1,78 @@
+p.padded {
+    padding-left:4.8em;
+  }
+
+.intro-text {
+  font-size: 133px;
+  letter-spacing: 0.4px;
+  display: block;
+  font-family: ProximaNova;
+    text-align: center;
+    color: hsl(350,100%,62%);
+    width: 420px;
+    margin: 0 auto;
+}
+
+
+
+ul.role li {
+
+  list-style-type: none;
+
+  font-size: 15px;
+
+}
+
+
+
+ul.role li:before {
+
+  font-family: 'FontAwesome';
+
+  content: '\f005';
+
+  margin: 0 5px 0 -20px;
+
+}
+
+ul.no-bullets li span.ability-title {
+
+  display: inline-block;
+
+  width: 60%;
+
+  font-size: 18px;
+
+}
+
+
+
+ul.no-bullets li span.ability-score {
+
+  float: right;
+
+  font-size: 16px;
+
+}
+
+ul.no-bullets {
+
+  list-style-type: none;
+
+  margin: 0px;
+
+  padding: 0px;
+
+}
+
+
+.myTabsClass ul > li.active > a,
+.myTabsClass ul > li.active > a:focus {
+  background-color: #343a40;
+  color: white;
+}
+
+.myTabsClass ul > li > a {
+  background-color: white;
+  color: red;
+}
